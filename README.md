@@ -61,14 +61,6 @@ This project detects barcodes in images and verifies them against predefined bar
    git push -u origin main
    ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-Specify the license for your project.
 
-## Contact
-Your Name - [your-email@example.com](mailto:your-email@example.com)
-
-GitHub: [your-username](https://github.com/your-username)
 
